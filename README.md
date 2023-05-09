@@ -10,7 +10,7 @@ Cruiser is a map and navigation platform.
 - GPS recording
 - Search locations, [plus codes](https://maps.google.com/pluscodes/), [what3words](https://what3words.com/)
 - Offline points of interest ([Mapsforge](https://download.mapsforge.org/), [OpenAndroMaps](https://www.openandromaps.org/en/))
-- Favorites
+- Favorites with groups and icons / colors
 - External controllers (Carpe Iter, Daytona, Parrot, WunderLINQ, keyboard)
 - Many configuration options
 - GPX navigation tracks (import / export) ([RouteYou](https://www.routeyou.com/))
