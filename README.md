@@ -13,7 +13,7 @@ Cruiser is a map and navigation platform.
 - Favorites with groups and icons / colors
 - External controllers (Carpe Iter, Daytona, Parrot, WunderLINQ, keyboard)
 - Many configuration options
-- GPX navigation tracks (import / export) ([RouteYou](https://www.routeyou.com/))
+- GPX navigation tracks ([RouteYou](https://www.routeyou.com/))
 - [Kurviger](https://kurviger.de/en) routes (import / export)
 
 If you have any questions, please write in [Cruiser Discussions](https://github.com/devemux86/cruiser/discussions).
