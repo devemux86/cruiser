@@ -20,7 +20,7 @@ If you have any questions, please write in [Cruiser Discussions](https://github.
 
 |Android|
 |-------|
-|<img src="https://github.com/devemux86/cruiser/assets/3484020/bd291c98-3e46-4072-8251-164db35431c7" width="50%"/><img src="https://github.com/devemux86/cruiser/assets/3484020/3047b4ac-75b5-4586-8d67-41d1ec5977e0" width="50%"/>|
+|<img src="https://github.com/devemux86/cruiser/assets/3484020/9718940e-a823-4869-9c92-64498495574d" width="50%"/><img src="https://github.com/devemux86/cruiser/assets/3484020/881310dd-30ff-44af-afe5-cf7ec124c966" width="50%"/>|
 
 |Desktop|
 |-------|
