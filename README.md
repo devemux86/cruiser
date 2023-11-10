@@ -8,9 +8,9 @@ Cruiser is a map and navigation platform.
 - Offline maps ([Mapsforge](https://download.mapsforge.org/), [OpenAndroMaps](https://www.openandromaps.org/en/), [Freizeitkarte](https://www.freizeitkarte-osm.de/android/en/index.html))
 - Offline / online routing ([BRouter](https://brouter.de/), [CycleStreets](https://www.cyclestreets.net/), [GraphHopper](https://www.graphhopper.com/), [MapQuest](https://www.mapquest.com/), [OpenRouteService](https://openrouteservice.org/), [OSRM](https://project-osrm.org/), [Valhalla](https://valhalla.openstreetmap.de/))
 - Offline points of interest, fuel stations, speed cameras
+- Offline search, [plus codes](https://maps.google.com/pluscodes/), [what3words](https://what3words.com/)
 - GPS recording
-- Search locations, [plus codes](https://maps.google.com/pluscodes/), [what3words](https://what3words.com/)
-- Favorites with groups and icons / colors
+- Favorite places, routes, tracks with groups, icons, colors
 - External controllers (Carpe Iter, Daytona, Parrot, WunderLINQ, keyboard)
 - Many configuration options
 - GPX navigation tracks ([RouteYou](https://www.routeyou.com/))
