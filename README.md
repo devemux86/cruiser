@@ -22,6 +22,7 @@ If you have any questions, please write in [Cruiser Discussions](https://github.
 |Android|
 |-------|
 |<img src="https://github.com/devemux86/cruiser/assets/3484020/9718940e-a823-4869-9c92-64498495574d" width="50%"/><img src="https://github.com/devemux86/cruiser/assets/3484020/881310dd-30ff-44af-afe5-cf7ec124c966" width="50%"/>|
+|<img src="https://github.com/devemux86/cruiser/assets/3484020/4d516562-e6c3-4286-bacf-8e161b13209c" width="50%"/><img src="https://github.com/devemux86/cruiser/assets/3484020/9a8a252b-fe5b-4ac2-8469-002e48701cb9" width="50%"/>|
 
 |Desktop|
 |-------|
