@@ -15,7 +15,7 @@ Cruiser is a map and navigation platform.
 - Many configuration options
 - [Kurviger](https://kurviger.de/en) routes
 
-English, العربية, Català, Nederlands, Français, Deutsch, Ελληνικά, Italiano, Polski, Español
+English, العربية, Català, Nederlands, Français, Deutsch, Ελληνικά, Italiano, 한국인, Polski, Español
 
 If you have any questions, please write in [Cruiser Discussions](https://github.com/devemux86/cruiser/discussions).
 
