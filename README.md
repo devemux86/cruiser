@@ -6,7 +6,7 @@ Cruiser is a map and navigation platform.
 
 - Voice navigation (car, motorcycle, bike, running, hiking)
 - Offline maps ([Mapsforge](https://download.mapsforge.org/), [OpenAndroMaps](https://www.openandromaps.org/en/), [Freizeitkarte](https://www.freizeitkarte-osm.de/android/en/index.html))
-- Offline routing ([BRouter](https://brouter.de/), [CycleStreets](https://www.cyclestreets.net/), [GraphHopper](https://www.graphhopper.com/), [MapQuest](https://www.mapquest.com/), [OpenRouteService](https://openrouteservice.org/), [OSRM](https://project-osrm.org/), [Valhalla](https://valhalla.openstreetmap.de/))
+- Offline routing ([BRouter](https://brouter.de/), [CycleStreets](https://www.cyclestreets.net/), [GraphHopper](https://www.graphhopper.com/), [OpenRouteService](https://openrouteservice.org/), [OSRM](https://project-osrm.org/), [Valhalla](https://valhalla.openstreetmap.de/))
 - Offline points of interest, fuel stations, speed cameras
 - Offline search, plus codes, what3words
 - GPS recording
