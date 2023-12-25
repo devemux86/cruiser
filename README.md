@@ -17,7 +17,9 @@ Cruiser is a map and navigation platform.
 
 English, العربية, Català, Nederlands, Français, Deutsch, Ελληνικά, Italiano, 한국인, Polski, Español
 
-If you have any questions, please write in [Cruiser Discussions](https://github.com/devemux86/cruiser/discussions).
+If you like this application, please tell others about it! 💕 💕
+
+For questions, please write in [Cruiser Discussions](https://github.com/devemux86/cruiser/discussions).
 
 |Android|
 |-------|
