@@ -2,7 +2,7 @@
 
 # Cruiser
 
-Cruiser is a map and navigation platform.
+Cruiser is a map and navigation application.
 
 - Voice navigation (car, motorcycle, bike, running, hiking)
 - Offline maps ([Mapsforge](https://download.mapsforge.org/), [OpenAndroMaps](https://www.openandromaps.org/en/), [Freizeitkarte](https://www.freizeitkarte-osm.de/android/en/index.html))
