@@ -22,7 +22,7 @@ For questions, please write in [Cruiser Discussions](https://github.com/devemux8
 
 |Android|
 |-------|
-|<img src="https://github.com/devemux86/cruiser/assets/3484020/9718940e-a823-4869-9c92-64498495574d" width="50%"/><img src="https://github.com/devemux86/cruiser/assets/3484020/881310dd-30ff-44af-afe5-cf7ec124c966" width="50%"/>|
+|<img src="https://github.com/devemux86/cruiser/assets/3484020/75df8ff5-2b6d-477f-9667-151bbdd508ac" width="50%"/><img src="https://github.com/devemux86/cruiser/assets/3484020/d178d198-914e-491c-ad9b-2785c8d6dfc0" width="50%"/>|
 |<img src="https://github.com/devemux86/cruiser/assets/3484020/c341cb60-90df-4547-963e-ce355bfb0844" width="50%"/><img src="https://github.com/devemux86/cruiser/assets/3484020/4d516562-e6c3-4286-bacf-8e161b13209c" width="50%"/>|
 
 |Desktop|
