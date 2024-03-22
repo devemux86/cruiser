@@ -11,8 +11,8 @@ Cruiser is a map and navigation application.
 - Record GPS tracks
 - Favorite places, routes, tracks with groups, icons, colors
 - External controllers (Carpe Iter, Daytona, Parrot, WunderLINQ, keyboard)
-- Customize it to fit your needs, you do not depend on anyone
-- Runs offline on **your** device, it is your app and your data
+- Many configuration options
+- Runs offline on your device, it is your data
 - Import [Kurviger](https://kurviger.de/en) routes
 
 English, العربية, Català, Nederlands, Français, Deutsch, Ελληνικά, Italiano, 한국인, Polski, Español
