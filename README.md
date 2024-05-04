@@ -4,16 +4,15 @@
 
 Cruiser is a map and navigation application.
 
-- Voice navigation (car, motorcycle, bike, running, hiking)
-- Offline maps ([Mapsforge](https://download.mapsforge.org/), [OpenAndroMaps](https://www.openandromaps.org/en/), [Freizeitkarte](https://www.freizeitkarte-osm.de/android/en/index.html))
-- Offline routing ([BRouter](https://brouter.de/), [CycleStreets](https://www.cyclestreets.net/), [GraphHopper](https://www.graphhopper.com/), [OpenRouteService](https://openrouteservice.org/), [OSRM](https://project-osrm.org/), [Valhalla](https://valhalla.openstreetmap.de/))
-- Offline search, points of interest, fuel stations, speed cameras
+- Voice navigation: car, motorcycle, bike, running, hiking
+- Offline routing: fastest, curvy, extra curvy routes
+- Offline search: points of interest, fuel stations, speed cameras
+- Offline maps
 - Record GPS tracks
-- Favorite places, routes, tracks with groups, icons, colors
-- External controllers (Carpe Iter, Daytona, Parrot, WunderLINQ, keyboard)
+- Favorites: places, routes, tracks
+- External controllers
 - Many configuration options
-- Runs offline on your device, it is your data
-- Import [Kurviger](https://kurviger.de/en) routes
+- Import Kurviger routes
 
 English, العربية, Català, Nederlands, Français, Deutsch, Ελληνικά, Italiano, 한국인, Polski, Español
 
@@ -24,7 +23,7 @@ For questions, please write in [Cruiser Discussions](https://github.com/devemux8
 |Android|
 |-------|
 |<img src="https://github.com/devemux86/cruiser/assets/3484020/75df8ff5-2b6d-477f-9667-151bbdd508ac" width="50%"/><img src="https://github.com/devemux86/cruiser/assets/3484020/d178d198-914e-491c-ad9b-2785c8d6dfc0" width="50%"/>|
-|<img src="https://github.com/devemux86/cruiser/assets/3484020/c341cb60-90df-4547-963e-ce355bfb0844" width="50%"/><img src="https://github.com/devemux86/cruiser/assets/3484020/4d516562-e6c3-4286-bacf-8e161b13209c" width="50%"/>|
+|<img src="https://github.com/devemux86/cruiser/assets/3484020/62b85ea5-726c-42bc-914b-25d51375f041" width="50%"/><img src="https://github.com/devemux86/cruiser/assets/3484020/2f5cd550-0deb-44f9-91d4-00925cd63616" width="50%"/>|
 
 |Desktop|
 |-------|
