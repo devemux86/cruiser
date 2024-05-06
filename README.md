@@ -20,11 +20,5 @@ If you like this application, please tell others about it! 💕 💕
 
 For questions, please write in [Cruiser Discussions](https://github.com/devemux86/cruiser/discussions).
 
-|Android|
-|-------|
-|<img src="https://github.com/devemux86/cruiser/assets/3484020/75df8ff5-2b6d-477f-9667-151bbdd508ac" width="50%"/><img src="https://github.com/devemux86/cruiser/assets/3484020/d178d198-914e-491c-ad9b-2785c8d6dfc0" width="50%"/>|
-|<img src="https://github.com/devemux86/cruiser/assets/3484020/62b85ea5-726c-42bc-914b-25d51375f041" width="50%"/><img src="https://github.com/devemux86/cruiser/assets/3484020/2f5cd550-0deb-44f9-91d4-00925cd63616" width="50%"/>|
-
-|Desktop|
-|-------|
-|![desktop](https://user-images.githubusercontent.com/3484020/210542646-0e5a6bfb-709e-4410-9329-3680068c44cf.png)|
+<img src="https://github.com/devemux86/cruiser/assets/3484020/75df8ff5-2b6d-477f-9667-151bbdd508ac" width="50%"/><img src="https://github.com/devemux86/cruiser/assets/3484020/d178d198-914e-491c-ad9b-2785c8d6dfc0" width="50%"/>
+<img src="https://github.com/devemux86/cruiser/assets/3484020/62b85ea5-726c-42bc-914b-25d51375f041" width="50%"/><img src="https://github.com/devemux86/cruiser/assets/3484020/2f5cd550-0deb-44f9-91d4-00925cd63616" width="50%"/>
