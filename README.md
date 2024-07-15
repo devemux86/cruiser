@@ -9,7 +9,7 @@ Cruiser is a map and navigation application.
 - Offline search: points of interest, fuel stations, speed cameras
 - Offline maps with hillshading
 - Record GPS tracks
-- Favorites: places, routes, tracks
+- Favorites: places, routes, tracks, no-go areas
 - External controllers
 - Many configuration options
 - Import Kurviger routes
