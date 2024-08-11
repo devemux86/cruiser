@@ -22,4 +22,4 @@ For questions, please write in [Cruiser Discussions](https://github.com/devemux8
 
 <img src="https://github.com/devemux86/cruiser/assets/3484020/75df8ff5-2b6d-477f-9667-151bbdd508ac" width="50%"/><img src="https://github.com/devemux86/cruiser/assets/3484020/d178d198-914e-491c-ad9b-2785c8d6dfc0" width="50%"/>
 <img src="https://github.com/devemux86/cruiser/assets/3484020/62b85ea5-726c-42bc-914b-25d51375f041" width="50%"/><img src="https://github.com/devemux86/cruiser/assets/3484020/2f5cd550-0deb-44f9-91d4-00925cd63616" width="50%"/>
-![cruiser-desktop](https://github.com/devemux86/cruiser/assets/3484020/44d30645-41ac-452e-bae1-af4b2a171542)
+![cruiser-desktop](https://github.com/user-attachments/assets/3e2aa35a-0dda-4b09-9c0e-937fd7988c7e)
