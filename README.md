@@ -10,9 +10,9 @@ Cruiser is an offline map and navigation application.
 - Offline maps with hillshading
 - Record GPS tracks
 - Favorites: places, routes, tracks, no-go areas
-- External controllers
+- Works with external controllers
 - Many configuration options
-- Import Kurviger routes
+- Import GPX, Kurviger, ITN routes
 
 Languages: English, العربية, Català, Nederlands, Français, Deutsch, Ελληνικά, Italiano, 한국인, Polski, Español
 
