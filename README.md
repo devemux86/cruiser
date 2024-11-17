@@ -14,7 +14,7 @@ Cruiser is an offline map and navigation application.
 - Many configuration options
 - Import GPX, Kurviger, ITN routes
 
-Languages: English, العربية, Català, Nederlands, Français, Deutsch, Ελληνικά, Italiano, 한국인, Polski, Español
+Languages: English, العربية, Català, 简体中文, Nederlands, Français, Deutsch, Ελληνικά, Italiano, 한국인, Polski, Español
 
 If you like this application, please tell others about it! 💕 💕
 
