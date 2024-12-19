@@ -21,6 +21,8 @@ Languages: English, العربية, Català, 简体中文, Nederlands, Français
 
 If you like this application, please tell others about it! 💕 💕
 
+If you want to support the development of this application, please consider to [buy me a coffee](https://buymeacoffee.com/devemux86).
+
 For questions, please write in the [forum](https://github.com/devemux86/cruiser/discussions).
 
 <img src="https://github.com/devemux86/cruiser/assets/3484020/75df8ff5-2b6d-477f-9667-151bbdd508ac" width="50%"/><img src="https://github.com/devemux86/cruiser/assets/3484020/d178d198-914e-491c-ad9b-2785c8d6dfc0" width="50%"/>
