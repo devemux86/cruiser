@@ -8,7 +8,7 @@
 Cruiser is an offline route planning and navigation application.
 
 - Voice navigation: car, motorcycle, bike, hiking
-- Offline route planning: fastest, curvy, extra curvy routes, no-go areas
+- Offline route planning: fastest, curvy routes, round trips, no-go areas
 - Offline search: points of interest, fuel stations, speed cameras
 - Offline maps with hillshading (Mapsforge, OpenAndroMaps, Freizeitkarte)
 - Record GPS tracks
