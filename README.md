@@ -7,17 +7,31 @@
 
 Cruiser is an offline route planning and navigation application.
 
-- Voice navigation: car, motorcycle, bike, hiking
-- Offline route planning: fastest, curvy routes, round trips, no-go areas
-- Offline search: points of interest, fuel stations, speed cameras
-- Offline maps with hillshading (Mapsforge, OpenAndroMaps, Freizeitkarte)
-- Record GPS tracks
-- Favorites: places, routes, tracks, no-go areas
-- Works with external controllers
-- Many configuration options
-- Import GPX, Kurviger, ITN routes
+Profiles for car, motorcycle, bike, mountain bike, walking, running, hiking.
 
-Languages: English, العربية, Català, 简体中文, Nederlands, Français, Deutsch, Ελληνικά, Italiano, 한국인, Polski, Español
+Offline route planning:
+- Plan offline routes, choose curviness level, exclude road types
+- Create round trips automatically, generate new tours each time
+- Set different route profiles for sections from fast to extra curvy
+- Change avoidance strength, show elevation diagram, draw no-go areas
+- Plan cycle routes and round trips with CycleStreets
+- Import and share routes with GPX, Kurviger, ITN formats
+
+Customizable navigation:
+- Voice navigation with turn-by-turn directions and offline recalculation
+- Display and announce nearby points of interest and favorites
+- Show speed limits, speed cameras, fuel stations and more
+- Customize the navigation screen and feature panels
+- Record and store your trips with accurate statistics
+
+Other powerful features:
+- Offline maps with hill shading from Mapsforge, OpenAndroMaps, Freizeitkarte
+- Search offline for points of interest of any type
+- Store your favorites, routes, tracks and change their appearance
+- Connect external controllers to operate the application
+- Customize everything to your style with many configuration options
+
+Languages: English, العربية, Català, 简体中文, Čeština, Nederlands, Français, Deutsch, Ελληνικά, Italiano, 한국인, Polski, Español
 
 If you like this application, please tell others about it! 💕 💕
 
@@ -25,6 +39,6 @@ If you want to support the development of this application, please consider to [
 
 For questions, please write in the [forum](https://github.com/devemux86/cruiser/discussions).
 
-<img src="https://github.com/devemux86/cruiser/assets/3484020/75df8ff5-2b6d-477f-9667-151bbdd508ac" width="50%"/><img src="https://github.com/devemux86/cruiser/assets/3484020/d178d198-914e-491c-ad9b-2785c8d6dfc0" width="50%"/>
-<img src="https://github.com/devemux86/cruiser/assets/3484020/62b85ea5-726c-42bc-914b-25d51375f041" width="50%"/><img src="https://github.com/devemux86/cruiser/assets/3484020/2f5cd550-0deb-44f9-91d4-00925cd63616" width="50%"/>
+<img src="https://github.com/user-attachments/assets/5148f4bf-7d2c-4f31-92f4-23b3203dd8a1" width="50%"/><img src="https://github.com/user-attachments/assets/01ffb8ed-e8c2-4d7c-bfce-b3e52288f3e5" width="50%"/>
+<img src="https://github.com/devemux86/cruiser/assets/3484020/2f5cd550-0deb-44f9-91d4-00925cd63616" width="50%"/><img src="https://github.com/user-attachments/assets/757d31f5-ba92-48a3-9a13-4d3c27edcf69" width="50%"/>
 ![cruiser-desktop](https://github.com/user-attachments/assets/3e2aa35a-0dda-4b09-9c0e-937fd7988c7e)
