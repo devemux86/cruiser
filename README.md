@@ -40,5 +40,5 @@ If you want to support the development of this application, please consider to [
 For questions, please write in the [forum](https://github.com/devemux86/cruiser/discussions).
 
 <img src="https://github.com/user-attachments/assets/5148f4bf-7d2c-4f31-92f4-23b3203dd8a1" width="50%"/><img src="https://github.com/user-attachments/assets/da05dc29-fc87-40e5-a235-9b0073cb7614" width="50%"/>
-<img src="https://github.com/user-attachments/assets/50c39cff-9fdf-4cdd-a28a-b54d53192b20" width="50%"/><img src="https://github.com/user-attachments/assets/184f863e-0c88-45a4-af71-d73083f41234" width="50%"/>
+<img src="https://github.com/user-attachments/assets/50c39cff-9fdf-4cdd-a28a-b54d53192b20" width="50%"/><img src="https://github.com/user-attachments/assets/13bf0740-a95c-4087-b142-329b434a761e" width="50%"/>
 ![cruiser-desktop](https://github.com/user-attachments/assets/3e2aa35a-0dda-4b09-9c0e-937fd7988c7e)
