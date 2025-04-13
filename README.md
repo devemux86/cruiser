@@ -1,5 +1,4 @@
 [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/devemux86?style=social)](https://twitter.com/devemux86)
-[!["Buy Me A Coffee"](https://buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/devemux86)
 
 # Cruiser
 
@@ -14,7 +13,6 @@ Offline route planning:
 - Create round trips automatically, generate new tours each time
 - Set different route profiles for sections from fast to extra curvy
 - Change avoidance strength, show elevation diagram, draw no-go areas
-- Plan cycle routes and round trips with CycleStreets
 - Import and share routes with GPX, Kurviger, ITN formats
 
 Customizable navigation:
