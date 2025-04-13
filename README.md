@@ -1,5 +1,3 @@
-[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/devemux86?style=social)](https://twitter.com/devemux86)
-
 # Cruiser
 
 <a href='https://play.google.com/store/apps/details?id=gr.talent.cruiser'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' height='100' align='right'/></a>
@@ -33,9 +31,10 @@ Languages: English, العربية, Català, 简体中文, Čeština, Nederlands
 
 If you like this application, please tell others about it! 💕 💕
 
-If you want to support the development of this application, please consider to [buy me a coffee](https://buymeacoffee.com/devemux86).
-
 For questions, please write in the [forum](https://github.com/devemux86/cruiser/discussions).
+
+[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/devemux86?style=social)](https://twitter.com/devemux86)
+[!["Buy Me A Coffee"](https://buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/devemux86)
 
 <img src="https://github.com/user-attachments/assets/5148f4bf-7d2c-4f31-92f4-23b3203dd8a1" width="50%"/><img src="https://github.com/user-attachments/assets/da05dc29-fc87-40e5-a235-9b0073cb7614" width="50%"/>
 <img src="https://github.com/user-attachments/assets/50c39cff-9fdf-4cdd-a28a-b54d53192b20" width="50%"/><img src="https://github.com/user-attachments/assets/fa4ed5ec-fce5-426d-aaf6-3ab4a7ec7fea" width="50%"/>
