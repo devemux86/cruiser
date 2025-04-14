@@ -31,7 +31,7 @@ Languages: English, العربية, Català, 简体中文, Čeština, Nederlands
 
 If you like this application, please tell others about it! 💕 💕
 
-For questions, please write in the [forum](https://github.com/devemux86/cruiser/discussions).
+For questions, please write in the [**forum**](https://github.com/devemux86/cruiser/discussions).
 
 [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/devemux86?style=social)](https://twitter.com/devemux86)
 [!["Buy Me A Coffee"](https://buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/devemux86)
