@@ -1,4 +1,4 @@
-# Cruiser
+# Cruiser GPS Navigation
 
 <a href='https://play.google.com/store/apps/details?id=gr.talent.cruiser'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' height='100' align='right'/></a>
 
