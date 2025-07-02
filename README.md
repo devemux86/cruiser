@@ -36,6 +36,6 @@ For questions, please write in the [**forum**](https://github.com/devemux86/crui
 [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/devemux86?style=social)](https://twitter.com/devemux86)
 [!["Buy Me A Coffee"](https://buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/devemux86)
 
-<img src="https://github.com/user-attachments/assets/f439436d-beb7-4844-bd63-bd49f44fc1ad" width="50%"/><img src="https://github.com/user-attachments/assets/5148f4bf-7d2c-4f31-92f4-23b3203dd8a1" width="50%"/>
+<img src="https://github.com/user-attachments/assets/01e66c8f-c2f8-4f44-84de-cd347d185c73" width="50%"/><img src="https://github.com/user-attachments/assets/5148f4bf-7d2c-4f31-92f4-23b3203dd8a1" width="50%"/>
 <img src="https://github.com/user-attachments/assets/50c39cff-9fdf-4cdd-a28a-b54d53192b20" width="50%"/><img src="https://github.com/user-attachments/assets/fa4ed5ec-fce5-426d-aaf6-3ab4a7ec7fea" width="50%"/>
 ![cruiser-desktop](https://github.com/user-attachments/assets/3e2aa35a-0dda-4b09-9c0e-937fd7988c7e)
