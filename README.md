@@ -11,7 +11,7 @@ Offline route planning:
 - Create round trips automatically, generate new tours each time
 - Set different route profiles for sections from fast to extra curvy
 - Change avoidance strength, show elevation diagram, draw no-go areas
-- Import and share routes with GPX, Kurviger, ITN formats
+- Import routes in GPX, Kurviger, ITN, KML, GeoJSON format
 
 Customizable navigation:
 - Voice navigation with turn-by-turn directions and offline recalculation
