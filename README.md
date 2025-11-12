@@ -27,7 +27,7 @@ Other powerful features:
 - Connect external controllers to operate the application
 - Customize everything to your style with many configuration options
 
-Languages: English, العربية, Català, 简体中文, Čeština, Dansk, Nederlands, Français, Deutsch, Ελληνικά, Italiano, 日本語, 한국인, Polski, Português, Español, Svenska
+Languages: English, Arabic, Catalan, Chinese, Czech, Danish, Dutch, French, German, Greek, Italian, Japanese, Korean, Polish, Portuguese, Spanish, Swedish
 
 If you like this application, please tell others about it! 💕 💕
 
