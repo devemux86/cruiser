@@ -7,7 +7,7 @@ Cruiser is an offline route planning and navigation application.
 Profiles for car, motorcycle, bike, mountain bike, walking, running, hiking.
 
 Offline route planning:
-- Plan offline routes, choose curviness level, exclude road types
+- Plan offline routes, choose curviness level, use off-road tracks
 - Create round trips automatically, generate new tours each time
 - Set different route profiles for sections from fast to extra curvy
 - Change avoidance strength, show elevation diagram, draw no-go areas
