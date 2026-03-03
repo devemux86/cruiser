@@ -23,7 +23,7 @@ Customizable navigation:
 Other powerful features:
 - Offline maps with hill shading from Mapsforge, OpenAndroMaps, Freizeitkarte
 - Search offline for points of interest of any type
-- Store your favorites, routes, tracks and change their appearance
+- Store your favorites, routes, tracks and change their appearance (Garmin icons)
 - Connect external devices and assign their keys to operate the application
 - Customize everything to your style with many configuration options
 
