@@ -24,7 +24,7 @@ Other powerful features:
 - Offline maps with hill shading from Mapsforge, OpenAndroMaps, Freizeitkarte
 - Search offline for points of interest of any type
 - Store your favorites, routes, tracks and change their appearance
-- Connect external controllers to operate the application
+- Connect external devices and assign their keys to operate the application
 - Customize everything to your style with many configuration options
 
 Languages: English, Arabic, Catalan, Chinese, Czech, Danish, Dutch, French, German, Greek, Italian, Japanese, Korean, Polish, Portuguese, Spanish, Swedish
