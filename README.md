@@ -27,8 +27,6 @@ Other powerful features:
 - Connect external devices and assign their keys to operate the application
 - Customize everything to your style with many configuration options
 
-Languages: English, Arabic, Catalan, Chinese, Czech, Danish, Dutch, French, German, Greek, Italian, Japanese, Korean, Polish, Portuguese, Spanish, Swedish
-
 If you like this application, please tell others about it! 💕 💕
 
 For questions, please write in the [**forum**](https://github.com/devemux86/cruiser/discussions).
